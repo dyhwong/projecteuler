@@ -15,6 +15,7 @@ def getSum(list):
 def main():
     print getSum(eratosthenes(2000000))
 
+print eratosthenes(1000000)
 main()
             
     
